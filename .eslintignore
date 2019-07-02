@@ -1,0 +1,8 @@
+!/*.js
+!/**/.eslintrc.js
+**/tests/**/*.js
+**/dist/**
+**/icons/**
+**/node_modules/**
+*not_in_use*
+custom-element-polyfill.js
